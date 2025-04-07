@@ -1,2 +1,1 @@
-# Social-Media-Dashboard
-Social Media Dashboard
+1.npm i 2.npm start
